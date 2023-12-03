@@ -1,0 +1,69 @@
+aliases:
+    fleeks: cd ~/.local/share/fleek
+bling: default
+blocklist: []
+byo_git: false
+ejected: false
+flakedir: .local/share/fleek
+git:
+    autocommit: true
+    autopull: true
+    autopush: true
+    enabled: true
+min_version: 0.8.4
+name: Fleek Configuration
+overlays: {}
+packages:
+    - helix
+    - aria2
+    - fd
+    - fzf
+    - gcc
+    - stdenvNoCC
+    - imagemagick
+    - imgbrd-grabber
+    - opusTools
+    - opustags
+    - ffmpeg
+    - intel-media-driver
+    - rustup
+    - nodejs_20
+    - neovim
+    - go
+    - flutterPackages.stable
+    - android-studio
+    - bat
+    - tldr
+    - eza
+    - unrar
+    - unzip
+    - zip
+    - p7zip
+    - unar
+    - fish
+    - pipx
+    - scrcpy
+    - btop
+    - mangal
+    - libva-utils
+    - handbrake
+    - calibre
+paths:
+    - $HOME/bin
+    - $HOME/.local/bin
+programs:
+    - dircolors
+shell: bash
+systems:
+    - arch: x86_64
+      hostname: fedora
+      os: linux
+      username: chloe
+track: nixos-unstable
+unfree: true
+users:
+    - email: ragasubekti@gmail.com
+      name: Raga Subekti
+      ssh_private_key_file: ~/.ssh/id_rsa
+      ssh_public_key_file: ~/.ssh/id_rsa.pub
+      username: chloe
