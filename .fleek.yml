@@ -48,6 +48,7 @@ packages:
     - libva-utils
     - handbrake
     - calibre
+    - koreader
 paths:
     - $HOME/bin
     - $HOME/.local/bin

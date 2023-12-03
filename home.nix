@@ -53,6 +53,7 @@
     pkgs.libva-utils
     pkgs.handbrake
     pkgs.calibre
+    pkgs.koreader
     # Fleek Bling
     pkgs.git
     pkgs.htop
