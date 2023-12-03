@@ -49,6 +49,7 @@ packages:
     - handbrake
     - calibre
     - koreader
+    - mpv-unwrapped
 paths:
     - $HOME/bin
     - $HOME/.local/bin

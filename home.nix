@@ -54,6 +54,7 @@
     pkgs.handbrake
     pkgs.calibre
     pkgs.koreader
+    pkgs.mpv-unwrapped
     # Fleek Bling
     pkgs.git
     pkgs.htop
